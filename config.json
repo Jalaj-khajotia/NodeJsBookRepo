@@ -1,0 +1,7 @@
+  {
+    "driver": "mysql",
+    "user": "root",
+    "database": "tutorial",
+    "password": "Dev!2345",
+    "secret" : "password"
+  }
